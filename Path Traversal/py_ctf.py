@@ -13,6 +13,7 @@ from flask.ext.session import Session
 
 app = Flask(__name__)
 
+password = password1234!
 
 execfile('flag.py')
 execfile('key.py')
